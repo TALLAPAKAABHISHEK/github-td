@@ -11,6 +11,7 @@ Welcome to !power electronics !
    :numbered:
    
    contact.md
+   about.md
    
    
    
