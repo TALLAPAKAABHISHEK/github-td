@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'powwr quality analysis of two level fed to IM '
+project = 'power quality analysis of two level fed to IM '
 copyright = '2020, Abhishek'
 author = 'Abhishek'
 
