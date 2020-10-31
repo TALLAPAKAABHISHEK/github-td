@@ -19,7 +19,7 @@
 
 project = 'powwr quality analysis of two level fed to IM '
 copyright = '2020, Abhishek'
-author = 'Abhishek
+author = 'Abhishek'
 
 # The full version, including alpha/beta/rc tags
 release = ''
